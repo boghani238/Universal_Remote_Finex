@@ -1,9 +1,9 @@
 {
   "data": [
 {
-      "admob_interstitial":"ca-app-pub-1848739877572166/5365606235",
-      "admob_native":"ca-app-pub-1848739877572166/3130325135",
-      "admob_banner":"ca-app-pub-1848739877572166/7383580708",
+      "admob_interstitial":"/21952429235,22644075336/TTS_DVDREMOTECONTROL_INTERSTITIAL",
+      "admob_native":"/21952429235,22644075336/TTS_DVDREMOTECONTROL_NATIVE_AD",
+      "admob_banner":"/21952429235,22644075336/TTS_DVDREMOTECONTROL_BANNER_AD",
       "ispurchaseItem":"1"
 }
 ]
