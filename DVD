@@ -2,8 +2,8 @@
   "data": [
 {
       "admob_interstitial":"/21753324030,22780729941/com.dvdplayer.remote.control.universal.foralldvd.dvdremote_Interstitial",
-      "admob_native":"123",
-      "admob_banner":"123",
+      "admob_native":"/21753324030,22780729941/com.dvdplayer.remote.control.universal.foralldvd.dvdremote_Native",
+      "admob_banner":"/21753324030,22780729941/com.dvdplayer.remote.control.universal.foralldvd.dvdremote_Banner",
       "ispurchaseItem":"1"
 }
 ]
